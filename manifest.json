@@ -1,0 +1,25 @@
+{
+  "name": "IKM DPC Bekasi Timur",
+  "short_name": "IKM Bekasi Timur",
+  "description": "Aplikasi Resmi Ikatan Keluarga Minang DPC Bekasi Timur",
+  "start_url": "https://ikmdpcbekasitimur.blogspot.com/",
+  "scope": "https://ikmdpcbekasitimur.blogspot.com/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#000000",
+  "theme_color": "#FFD700",
+  "icons": [
+    {
+      "src": "https://ikmdpcbekasitimur.blogspot.com/favicon.ico",
+      "sizes": "192x192",
+      "type": "image/x-icon",
+      "purpose": "any"
+    },
+    {
+      "src": "https://ikmdpcbekasitimur.blogspot.com/favicon.ico",
+      "sizes": "512x512",
+      "type": "image/x-icon",
+      "purpose": "any"
+    }
+  ]
+}
